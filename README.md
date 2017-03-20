@@ -10,4 +10,4 @@ Dit is een webpack project waar we al met Webpack werken en waar we ook met sass
 
 * voer het commando `npm start` uit. Je project draait nu op: http://localhost:8080/
 
-Laat me weten als je errors krijgt. Het kan zijn dat je webpack globaal moet installeren.
+Laat me weten als je errors krijgt. Het kan zijn dat je webpack globaal moet installeren.g
