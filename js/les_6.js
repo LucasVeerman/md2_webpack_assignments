@@ -7,6 +7,8 @@
  * Maak een object aan en check via existy() of hij bestaat
  * Maak een variabele aan maar geef hem nog geen vulling. Console.log() wat existy() teruggeeft
  */
+import "utils/conditions.utils";
+let car = {brand:"Ford", color:"black"};
 
 /**
  * Opdracht 2: exports
